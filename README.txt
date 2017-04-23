@@ -33,7 +33,7 @@
 *  also include a flag to indicate that the note is to be played at a higher volume,
 *  if the velocity of the MIDI note is above a certain value.
 *  This format is suitable for use with the ArduboyTones library, which is on GitHub at
-*    https://github.com/Arduboy/ArduboyTones
+*    https://github.com/MLXXXp/ArduboyTones
 *
 *  The output can be either a C-language source code fragment that initializes an
 *  array with the command bytestream, or a binary file with the bytestream itself.
